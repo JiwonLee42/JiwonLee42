@@ -11,7 +11,7 @@
 
 -[하이수정이-포트폴리오,대외활동 관리 플랫폼]
 
-  -[대외활동 추천](https://github.com/JiwonLee42/hisujung_flask):python,flask
+  -> [대외활동 추천](https://github.com/JiwonLee42/hisujung_flask):python,flask
   
 -[Solar System(게임)]:java
 
