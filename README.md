@@ -13,7 +13,7 @@
 
   -> [대외활동 추천](https://github.com/JiwonLee42/hisujung_flask):python,flask
   
--[Solar System(게임)]:java
+-[Solar System(게임)](https://github.com/JiwonLee42/Game-main):java
 
 ## practice
 -[코딩테스트 연습](https://github.com/JiwonLee42/CodingTest):c++,java
