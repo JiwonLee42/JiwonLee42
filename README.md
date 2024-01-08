@@ -9,7 +9,7 @@
 
 -[동고동락-동아리,스터디,소모임 플랫폼](https://github.com/JiwonLee42/dongodonglak):node.js,html,css,ejs
 
--[하이수정이-포트폴리오,대외활동 관리 플랫폼]
+-하이수정이-포트폴리오,대외활동 관리 플랫폼
 
   -> [대외활동 추천](https://github.com/JiwonLee42/hisujung_flask):python,flask
   
