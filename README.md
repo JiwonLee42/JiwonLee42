@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=JiwonLee%20Portfolio&fontSize=70)
-
 <div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=JiwonLee%20Portfolio&fontSize=70)
 
 ## profile
 - major: sungshin.w.univ computer engineering
