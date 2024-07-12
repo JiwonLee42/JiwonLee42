@@ -31,7 +31,7 @@
 | [대외활동 추천시스템](https://github.com/JiwonLee42/hisujung_flask) | Python, Flask                                    | AI 담당 |      2023 성신여대 소프트웨어 경진대회  은상 수상작 입니다.         |
 | [Solar System(게임)](https://github.com/JiwonLee42/Game-main) | Java                             | Game Developer |    고급자바프로그래밍 프로젝트 입니다.        |
 | [DOGO-애견 산책 안내 서비스](https://github.com/UMC-DOGO/DOGO-SERVERS) |   Node.js                        | Backend 담당 |     -       |
-
+| [Kids In Seoul-맞벌이 부모를 위한 아이 기록 및 관리 서비스](https://github.com/JiwonLee42/kid-in-seoul-backend) |   Spring Boot                        | Backend 담당 |     -       |
 ## practice
 
 | repo                     | technologies used       | info     |
