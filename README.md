@@ -29,8 +29,8 @@
 | [DOGO-애견 산책 안내 서비스](https://github.com/UMC-DOGO/DOGO-SERVERS) | Node.js, AWS | Backend 담당 | - |
 | [Kids In Seoul-맞벌이 부모를 위한 아이 기록 및 관리 서비스](https://github.com/JiwonLee42/kid-in-seoul-backend) | Springboot, AWS, redis, Docker, Github Actions | Backend 담당 | - |
 | [고블린-일정 조율 서비스](https://github.com/GoblinCalendar/goblin_backend) | Docker, AWS, Spring Boot | Server, Backend 담당 | - |
-| [CULTICARE-한국 거주 다문화 가정을 위한 우울증 치료 서비스]([https://github.com/CULTICARE-repo](https://github.com/culticare-app/culticare-backend)) | Backend, AI, Server | Spring Boot, AWS, Docker, FastApi | - |
-| [CULTICARE-한국 거주 다문화 가정을 위한 우울증 치료 서비스- 우울도 분석 레포지토리]([https://github.com/culticare-app/msa-depression])) | Backend, AI, Server | Spring Boot, AWS, Docker, FastApi | - |
+| [CULTICARE-한국 거주 다문화 가정을 위한 우울증 치료 서비스]([https://github.com/CULTICARE-repo](https://github.com/culticare-app/culticare-backend)) | Spring Boot, AWS, Docker, FastApi | Backend, AI, Server 담당 | - |
+| [CULTICARE-한국 거주 다문화 가정을 위한 우울증 치료 서비스- 우울도 분석 레포지토리]([https://github.com/culticare-app/msa-depression])) | Spring Boot, AWS, Docker, FastApi | Backend, AI, Server 담당 | - |
 
 
 
