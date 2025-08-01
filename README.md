@@ -1,4 +1,4 @@
-<div style="text-align: left;">
+<div style="text-align: center;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br>
 
   <div style="text-align: center; margin-bottom: 6px;">
@@ -11,7 +11,7 @@
   <div style="text-align: center;">
     <strong>⚙️ Tech Stacks</strong><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,flask,aws,gcp,docker,kubernetes&perline=3">
+      <img src="https://skillicons.dev/icons?i=spring,flask,aws,gcp,docker,kubernetes">
     </a>
   </div>
 </div>
