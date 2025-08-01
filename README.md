@@ -11,7 +11,7 @@
   <div style="text-align: center;">
     <strong>⚙️ Tech Stacks</strong><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,flask,aws,gcp,docker,kubernetes">
+      <img src="https://skillicons.dev/icons?i=spring,flask,mysql,aws,gcp,docker,kubernetes">
     </a>
   </div>
 </div>
