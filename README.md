@@ -45,10 +45,10 @@
         <p><strong>Submajor:</strong> Sungshin Women’s University, Department of Convergence Security Engineering</p>
     </div>
 </div>
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/JiwonLee42"
-    width="600"
-    height="300"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JiwonLee42&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JiwonLee42"
+  width="600"
+  height="300"
+/>
 </a>
