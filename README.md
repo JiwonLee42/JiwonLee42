@@ -96,6 +96,9 @@
 **UMC 9기 Server - Spring Boot 파트장**  
 - 2025.09 ~ 2026.02  
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/JiwonLee42"/>
+</a>
 ---
 
 ## 🚀 프로젝트
