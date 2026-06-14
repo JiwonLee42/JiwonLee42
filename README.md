@@ -94,6 +94,7 @@
 | UMC 9기 | Server 파트장 (Spring Boot) | 2025.09 ~ 2026.02 |
 | UMC 10기 | Server 파트장 (Spring Boot) | 2026.03 ~ 진행중 |
 | UMC 10기 | Android 파트 참여 | 2026.03 ~ 진행중 |
+| 프로그라피 11기 | BE 파트 참여 | 2026.04 ~ 진행중 | 
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/JiwonLee42"/>
@@ -104,7 +105,8 @@
 ## ⭐ 주요 프로젝트
 
 ### [NOOK](https://github.com/UMC-NOOK/Server)
-독서 기록 및 서재 관리 웹 서비스 &nbsp;·&nbsp; 📅 2025.07 ~ 2025.08
+독서 기록 및 서재 관리 웹 서비스 &nbsp;·&nbsp; 📅 2025.07 ~ ing
+런칭 전 리뉴얼 진행 중
 
 <div>
 
@@ -190,8 +192,9 @@
 
 | 프로젝트 | 설명 | 기술스택 | 기간 |
 | --- | --- | --- | --- |
-| [Linku](https://github.com/LinkYou-2025/LinkU_backend) | 링크 저장 서비스 | Spring Boot, AWS, Docker, Redis | 진행중 |
-| [Nook](https://github.com/JiwonLee42/Nook-Server) | 독서 기록 서비스 · 런칭 전 리뉴얼 | Spring Boot, Kotlin, PostgreSQL, Redis, Docker, AWS | 진행중 |
+| [Linku](https://github.com/LinkYou-2025/LinkU_backend) | 링크 저장 서비스 | Spring Boot, java, AWS, Docker, Redis | 진행중 |
+| [Nook](https://github.com/JiwonLee42/Nook-Server) | 독서 기록 서비스 · 런칭 전 리뉴얼 | Spring Boot, java, PostgreSQL, Redis, Docker, AWS | 진행중 |
+| [먹어도돼?] | 만성 위장 질환 관리 서비스 | Spring Boot, Kotlin, Railway, Docoker, PostgreSQL | 진행중 |
 
 ### 🏆 교내 수상 · 대회 참여
 
