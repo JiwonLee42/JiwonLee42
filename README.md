@@ -101,6 +101,14 @@
 </a>
 
 ---
+### 🔨 현재 진행중인 프로젝트
+
+| 프로젝트 | 설명 | 기술스택 | 기간 |
+| --- | --- | --- | --- |
+| [Linku](https://github.com/LinkYou-2025/LinkU_backend) | 링크 저장 서비스 / 런칭 전 리뉴얼, 7월 런칭 예정 | Spring Boot, java, AWS, Docker, Redis | 진행중 |
+| [Nook](https://github.com/JiwonLee42/Nook-Server) | 독서 기록 서비스 / 런칭 전 리뉴얼, 7월 런칭 예정 | Spring Boot, java, PostgreSQL, Redis, Docker, AWS | 진행중 |
+| [먹어도돼?](https://github.com/pp11t5/GERD_BE) | 만성 위장 질환 관리 서비스 | Spring Boot, Kotlin, Railway, Docoker, PostgreSQL | 진행중 |
+---
 
 ## ⭐ 주요 프로젝트
 
@@ -187,14 +195,6 @@
 ---
 
 ## 🗂 그 외 프로젝트 & 활동 기록
-
-### 🔨 현재 진행중
-
-| 프로젝트 | 설명 | 기술스택 | 기간 |
-| --- | --- | --- | --- |
-| [Linku](https://github.com/LinkYou-2025/LinkU_backend) | 링크 저장 서비스 | Spring Boot, java, AWS, Docker, Redis | 진행중 |
-| [Nook](https://github.com/JiwonLee42/Nook-Server) | 독서 기록 서비스 · 런칭 전 리뉴얼 | Spring Boot, java, PostgreSQL, Redis, Docker, AWS | 진행중 |
-| [먹어도돼?] | 만성 위장 질환 관리 서비스 | Spring Boot, Kotlin, Railway, Docoker, PostgreSQL | 진행중 |
 
 ### 🏆 교내 수상 · 대회 참여
 
