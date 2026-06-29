@@ -4,6 +4,13 @@
 
 <br/>
 
+## Social
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jayaione_ele)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ljw56b@gmail.com)
+[![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://plump-nightshade-d81.notion.site/26aaf70e10a680b5a47fdfdbf2c65b2b?source=copy_link)
+<br>
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/jayaione_ele?theme=dark&posts=3)
+
 <!-- ======================= TECH STACK ======================= -->
 
 ## 🛠 기술 스택
